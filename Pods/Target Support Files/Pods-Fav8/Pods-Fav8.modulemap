@@ -1,0 +1,6 @@
+framework module Pods_Fav8 {
+  umbrella header "Pods-Fav8-umbrella.h"
+
+  export *
+  module * { export * }
+}
